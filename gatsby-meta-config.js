@@ -1,7 +1,7 @@
 module.exports = {
   title: `Ego`,
   description: `Blog posted about ...`,
-  author: `[Soohyun]`,
+  author: `[SOO HYUN OH]`,
   introduction: `오수현`,
   siteUrl: `https://xkdlxkslr1997.netlify.app`, // Your blog site url
   social: {
@@ -14,7 +14,7 @@ module.exports = {
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
+    disqusShortName: 'Soo', // Your disqus-short-name. check disqus.com.
     utterances: 'osh11/osh11.github.io', // Your repository for archive comment
   },
   configs: {
