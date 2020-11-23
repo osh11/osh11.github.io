@@ -1,12 +1,12 @@
 module.exports = {
   title: `xkdlxkslr1997`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
+  author: `[Soohyun]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `osh11`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -21,7 +21,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'osh11',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
