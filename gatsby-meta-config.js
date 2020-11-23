@@ -1,7 +1,7 @@
 module.exports = {
   title: `Ego`,
   description: `Blog posted about ...`,
-  author: `[SOO HYUN OH]`,
+  author: `[Soo]`,
   introduction: `오수현`,
   siteUrl: `https://xkdlxkslr1997.netlify.app`, // Your blog site url
   social: {
