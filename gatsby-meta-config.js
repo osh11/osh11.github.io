@@ -2,7 +2,7 @@ module.exports = {
   title: `Ego`,
   description: `Blog posted about ...`,
   author: `[Soo]`,
-  introduction: `오수현`,
+  introduction: `우리는 움직임의 시대에 살고 있다. 사람과 사물은 역사상 과거 어떤 시대보다도 더 멀리, 더 자주, 더 빨리 움직인다. 오래 전에 견고한 모든 것은 대기 속으로 사라져서 이제는 폭풍에 표류하는 민들레 씨앗처럼 세계 전역을 순환하고 있다.`,
   siteUrl: `https://xkdlxkslr1997.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
